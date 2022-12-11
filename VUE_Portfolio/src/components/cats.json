@@ -1,0 +1,37 @@
+[
+    {
+      "name": "cat1",
+      "cat": [
+        {"subcat":  "cat1", "subcatlink": "/"},
+        {"subcat":  "cat12", "subcatlink": "/"}
+      ]
+    },
+    {
+      "name": "cat2",
+      "cat": [
+        {"subcat":  "cat2", "subcatlink": "/"},
+        {"subcat":  "cat22", "subcatlink": "/"}
+      ]
+    },
+    {
+      "name": "cat3",
+      "cat": [
+        {"subcat":  "cat3", "subcatlink": "/"},
+        {"subcat":  "cat32", "subcatlink": "/"}
+      ]
+    },
+    {
+      "name": "cat4",
+      "cat": [
+        {"subcat":  "cat4", "subcatlink": "/"},
+        {"subcat":  "cat42", "subcatlink": "/"}
+      ]
+    },
+    {
+      "name": "cat5",
+      "cat": [
+        {"subcat":  "cat5", "subcatlink": "/"},
+        {"subcat":  "cat52", "subcatlink": "/"}
+      ]
+    }
+  ]

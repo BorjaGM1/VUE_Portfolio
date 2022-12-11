@@ -1,0 +1,3 @@
+<template>
+    Algorithms
+</template>
